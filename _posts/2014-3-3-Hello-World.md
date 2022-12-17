@@ -3,6 +3,7 @@ layout: post
 title: Resumen clase User centric y FAccT
 ---
 
+Es facil
 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
