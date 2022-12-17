@@ -12,5 +12,8 @@ Una vez entendido esto se puede empezar a generar aprendizaje en base y recomend
 
 Es importante mencionar que estas recomendaciones generaran un impacto en el individuo y es dificil generar el entendimiento de que se esta recomendando, es asi como si una persona tiene un perfil en instagram sobre un partido politico puede que este sugiera videos similares o publicaciones similares a su gusto, sesgando al usuario. Este ejemplo se puede aprecia en el video ["/el dilema de las redes sociales_"](https://www.netflix.com/cl/title/81254224).
 
+![an image alt text]({{[ site.baseurl ](https://www.netflix.com/cl/title/81254224)}}[/images/jekyll-logo.png](https://occ-0-3604-185.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWDiELyhKBpQJieCIo7mY7bjVMey1clZkrSk5uJhaSMZ8mZO78eDfkmjuoYr9vVG8ox8eA2DTUUeFHFwnB8ClWszDTreeOWml1s2.jpg) "an image title")
+
+
 ----
 ****
