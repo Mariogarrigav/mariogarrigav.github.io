@@ -11,5 +11,6 @@ Es importante mencionar que al centrar la recomendacion en base al aprendizaje e
 Una vez entendido esto se puede empezar a generar aprendizaje en base y recomendaciones en base a diversos datos del usuario, ayudados a su vez del deep learning que logra llevar datos no estructurados al aprendizaje de las maquinas. Un ejemplo de esto podria ser instagram, el cual no solo utilizara los datos del usuario como los georeferenciados, si no que utilizara embeding de los reels (videos cortos) vistos en la historia y con "me gusta", embeding del texto a buscar y logrando llevar estos datos a un vector latente el cual por medio de los vecinos más cercanos lograra generar la recomendacion más adecuada segun lo anteriormente mencionado. 
 
 Es importante mencionar que estas recomendaciones generaran un impacto en el individuo y es dificil generar el entendimiento de que se esta recomendando, es asi como si una persona tiene un perfil en instagram sobre un partido politico puede que este sugiera videos similares o publicaciones similares a su gusto, sesgando al usuario. Este ejemplo se puede aprecia en el video ["/el dilema de las redes sociales_"](https://www.netflix.com/cl/title/81254224).
+
 ----
 ****
