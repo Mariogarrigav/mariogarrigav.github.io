@@ -14,7 +14,7 @@ Es importante mencionar que estas recomendaciones generaran un impacto en el ind
 
 ![an image alt text]({{[ site.baseurl ](https://www.netflix.com/cl/title/81254224)}}[/images/jekyll-logo.png](https://occ-0-3604-185.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWDiELyhKBpQJieCIo7mY7bjVMey1clZkrSk5uJhaSMZ8mZO78eDfkmjuoYr9vVG8ox8eA2DTUUeFHFwnB8ClWszDTreeOWml1s2.jpg) "an image title")
 
-A su vez ademas de las redes sociales existen otras plataformas que realizan estos recomendadores como Netflix, Tik-Tok, video juegos, tiendas o retail, entre otros.
+A su vez ademas de las redes sociales existen otras plataformas que realizan estos recomendadores como Netflix, Tik-Tok, video juegos (Dota 2), tiendas o retail, entre otros.
 
 Es importante en estos recomendadores poder generar un entendimiento del algoritmo, para poder generar un esperado de los resultados y la forma en que toma las desiciones. Esto debido a que como ya se menciono el impacto que se puede llegar a obtener sobre los usuarios por la necesidad de aumentar un valor de recompensa esperado puede generar consecuencias no esperadas. Al menos es necesario educar o informar al usuario, en el caso de ser necesario, que no todo lo que se le recomienda es el universo completo de opciones si no el más semejante a su casuistica.
 
