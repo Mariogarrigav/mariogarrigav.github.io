@@ -3,12 +3,24 @@ layout: post
 title: Resumen clase dominio de aplicaciones e investigaciones recientes
 ---
 
-## Contexto: Recomendadores en base a interaccion con el usuario el cual ofrece una respuesta o sugerencias personalizadas de una conversacion, esto en base a las n ultimas frases del usuario.
+## Contexto: Se realiza mencion a algunos de los problemas más relevantes de las RECSYS y sobre los Graph Neural Networks para los modelos de recomendacion.
 ### Profesor: Denis Parra
 
-Es importante partir mencionando la gran diferencia entre un Chatbot y un IA Conersacional. Mientras que un Chatbot es programa que puede usar o no IA Conversacional es simplemente un programa que se comunica con las personas, por otro lado la IA conversacional son algoritmos entrenados para realizar entendimiento del lenguaje logrando finalmente imitar y llevar a cabo conversaciones con personas. Es decir que perfectamente un charbox puede ser un algoritmo de preguntas con una lista de respuesta para guiar al usuario hasta su respuesta o bien puede contener un IA que pueda entender lo que el usuario le explica dandole una respuesta esperada ante su texto o comunicacion.
+
+### Problemas de las RECSYS.
+
+Es importante siempre tener en cuenta al momento de realizar nuestro recomendador que este puede caer en uno de los principales problemas de los RECSYS, estos son:
+
+* La IA no necesariamente esta recomendado lo que el usuario prefiere, esta esta sesgada y aprende a maximizar una funcion o valor de ganancia que es pre-definida por el programador, esta puede ser pasar tiempo viendo un video, foto, hacer clicks pero no necesariamente es la preferencia de mayor gusto para nuestro usuario, solo es la que maximisa la ganancia definida en base a un valor esperado.
+* Es importante ademas siempre mantener un margen de control sobre la IA, es decir, que el usuario pueda ajustar las preferencias o regular el aprendizaje de la IA. Ya sea por un feedback o mostrar diversas recomendaciones es importante que el usuario pueda ajustar esta para ser más personalizada.
+* El recomendador puede estar sesgado por los mismos datos de entrenamiento, viniendo estos de un sesgo previo a los datos con los comportamientos de los usuarios, el cual es dificil de lograr regular o percatarse de este.
+
+Existen varios problemas en los cuales se pueden abordar o afectan a los RECSYS provinientes de falta de datos, sobrecarga de informacion, falta de variedad, desde el mismo Bias en los datos o problemas de privacidad. Es una responsabilidad latente que debemos manejar para lograr que nuestro recomendador sea lo más justo y etico posible, sin contener algun sesgo eticamente cuestinable.
 
 
+### Graph neuronal networks para recomendadores.
+
+asdf
 
 ----
 ****
