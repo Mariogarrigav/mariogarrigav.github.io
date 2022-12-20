@@ -20,7 +20,8 @@ Existen varios problemas en los cuales se pueden abordar o afectan a los RECSYS 
 
 ### Graph neuronal networks para recomendadores.
 
-asdf
+Es bastante natural definir un recomendador en base a un sistema de grafo, por lo que este tipo de recomendador es bastante utilizado para lograr modelar relaciones entre las distintas sugerencias que se le realizan al usuario. Un ejemplo bastante aterrizado 
+
 
 ----
 ****
